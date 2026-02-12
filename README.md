@@ -1,4 +1,3 @@
-# My Assignment
 # SyriaTel Customer Churn Prediction
 
 ## Overview
