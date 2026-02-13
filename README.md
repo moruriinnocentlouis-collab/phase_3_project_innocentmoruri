@@ -27,3 +27,5 @@ The **Decision Tree** achieved a **Recall of 74.3%**, allowing SyriaTel to ident
 - `phase_3_project.ipynb`: The complete technical analysis.
 - `presentation.pdf`: Non-technical stakeholder slides.
 - `data/`: Folder containing the SyriaTel dataset.
+
+Git hub link-https://github.com/moruriinnocentlouis-collab/phase_3_project_innocentmoruri.git
